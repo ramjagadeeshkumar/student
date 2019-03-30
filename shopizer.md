@@ -23,10 +23,7 @@ check it  public ipaddress:8080
 http://54.197.199.1:8080   
 
 
-# mysQl
-https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
-
-openmrs installation process below 
+installation process below 
 
 now open gitbrush 
 beacame rootuser :  sudo-i
