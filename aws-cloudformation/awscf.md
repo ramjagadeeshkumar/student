@@ -10,7 +10,7 @@ after creating json file
 
 # cloud formation steps
 
-open aws cloud formation
+open aws cloud formation  and select the create stack
 
 
 ![Preview](./images/1.png)
