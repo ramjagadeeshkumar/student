@@ -5,7 +5,7 @@
 after creating json file 
 
 [preview](./sir.json)
-
+[preview](./vpc-ec2.json)
 
 
 # cloud formation steps
